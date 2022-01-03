@@ -17,12 +17,12 @@ Let's Get your HTML running with Faceki HTML JavaScript SDK
 
 * Compress zip folder and keep all files on root folder
 
-* Change "client_id" and "client_id" and "client_email" in public/assets/js/faceki-startup.js
+* Change "client_id" and "client_id" and "client_email" in /assets/js/faceki-startup.js
 
 <h1>SDK Setting</h1>
 * Login to Dashboard https://faceki.com/backend >> Integrations >> SDK Setting 
 
-* To control number of document and results based on the ID reauirements
+* To control the number of document and results based on the ID reqauirements
 
 <h1>Verifications Setting</h1>
 * Login to Dashboard https://faceki.com/backend >> Verifications >> Verification Setting 
